@@ -1023,7 +1023,7 @@ void vilkaslaimi()
 {
     if (a==56)
     {
-        if (a==v1 || a==v2 || a==v3 ||a==v4)
+        if (a-7==v1 || a-7==v2 || a-7==v3 || a-7==v4)
         {
             laimi=true;
             cout<<"vilkas laimi";
