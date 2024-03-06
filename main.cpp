@@ -1063,6 +1063,7 @@ void vilkaslaimi()
 }
 int main()
 {
+    cout<<"zaidimo taisykles :"<<endl<<"zaidzia du zaidejai, vienas uz vilkus ir kitas uz avi"<<endl<<"tiek vilkai, tiek avis juda istrizai"<<endl<<"vilkai ir avis negali kirsti vieni kitu"<<endl"avies tikslas yra praeiti pro vilkus i virsutine eilute"<<endl<<"vilku tikslas uzspausti avi, kad ji neturetu jokiu ejimu"<<endl;
     for(int i=0; i<64; i++)
     {
         vec.push_back(i);
